@@ -1,0 +1,74 @@
+[
+  {
+    "id":1,
+    "name":"Story Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  },
+  {
+    "id":2,
+    "name":"comedy Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":20,
+    "category":"Paid",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  },
+  {
+    "id":3,
+    "name":"Sports Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":50,
+    "category":"Paid",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  },
+  {
+    "id":4,
+    "name":"Music Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  },
+  {
+    "id":5,
+    "name":"Game Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":100,
+    "category":"Paid",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  },
+  {
+    "id":6,
+    "name":" Horror Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  },
+  {
+    "id":7,
+    "name":"Romantic Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":50,
+    "category":"Paid",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  },
+  {
+    "id":8,
+    "name":" Horror Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  },
+  {
+    "id":9,
+    "name":" Horror Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium,",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1725987454~exp=1725991054~hmac=bfa1501b6117cf0d36475bc40c418a33e17462794c0d146a6350612a02cd3e84&w=996"
+  }
+]
